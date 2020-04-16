@@ -1,0 +1,99 @@
+                                                   RESUME
+
+
+PERSONAL INFORMATION
+
+first name : Dimpal 
+
+last name : Kataniya
+
+select your gender : female
+
+email-id : 181210022@nitdelhi.ac.in
+
+phone number : 9999999999
+
+address : Jodhpur, Rajasthan
+
+
+
+
+QUALIFICATIONS
+
+College name : NIT Delhi
+
+Percentage/cgpa: : 8.88
+
+Field of study : Engineering
+
+Graduation year : 2022
+
+School name(xth): : S.H.A.S.S school, Pipar road
+
+percentage/cgpa: : 88%
+
+year: : 2015
+
+School name(xiith): : V.T.M.S.S.S marwar mundwa, Nagaur
+
+percentage/cgpa: : 88%
+
+year: : 2017
+
+
+
+
+PROJECTS AND WORK EXPERIENCE
+
+project name: : --------
+
+project starting date : ---------
+
+project ending date : -----------
+
+project description:  : ------
+
+project name: : --------
+
+project starting date : -----------
+
+project ending date : ------------
+
+project description: : -------------
+
+
+
+
+SKILLS AND HOBBIES
+
+SKILLS
+
+skill-1:  : c
+
+skill-2:  : java
+
+skill-3: : python
+
+skill-4:  : data structures and algorithms 
+
+HOBBIES
+
+hobby-1:  : playing kabaddi
+
+hobby-2: : writing poems
+
+hobby-3:  : cooking
+
+hobby-4: : running
+
+
+
+
+ACHIVEMENTS
+
+achivement-1: : won best player of the tournament award in all india inter nit kabaddi tournament 2019.
+
+achivement-2: : secured 1st position in model competition of all india ramanujan mathematics club
+
+achivement-3: : ---------------------------
+
