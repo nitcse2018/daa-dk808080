@@ -3,7 +3,7 @@ import java.util.*;
 //Java program to solve Traveling Salesman Problem
 // using Branch and Bound.
 
-public class TSP {
+public class TSProblem {
 	
 	    static int N = 4;
 	    static int final_path[] = new int[N + 1];
